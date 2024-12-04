@@ -36,20 +36,20 @@ You will need to install the following to run the codes.
 
 To use the codes, you can run them in two ways:
 
-*   option 1:
+*   **option 1**:
 
 To run all the stages in a single code, you must download the ipynb file [ML_IOBPdb_obps_covs.ipynb](https://github.com/Glarah453/ML_obps_vocs/blob/main/ML_IOBPdb_obps_covs.ipynb) and run all the cells.
 
-*   option 2:
+*   **option 2**:
 
 To run the stages separately, you must download the files:
 
--   Data Collection and Filtering [ML_obps_covs - Etapa 1.ipynb](https://github.com/Glarah453/ML_obps_vocs/blob/main/ML_obps_covs%20-%20Etapa%201.ipynb). 
+    -   Data Collection and Filtering [ML_obps_covs - Etapa 1.ipynb](https://github.com/Glarah453/ML_obps_vocs/blob/main/ML_obps_covs%20-%20Etapa%201.ipynb). 
 
--   Search for descriptors and creation of dataset [ML_obps_covs - Etapa 2 y 3.ipynb](https://github.com/Glarah453/ML_obps_vocs/blob/main/ML_obps_covs%20-%20Etapa%202%20y%203.ipynb). 
+    -   Search for descriptors and creation of dataset [ML_obps_covs - Etapa 2 y 3.ipynb](https://github.com/Glarah453/ML_obps_vocs/blob/main/ML_obps_covs%20-%20Etapa%202%20y%203.ipynb). 
 
--   Preprocessing, Normalization and Optimization of Hyperparameters of the Models run the files in the [Opt for Models](https://github.com/Glarah453/ML_obps_vocs/tree/main/Opt%20for%20Models)  folder for hyperparameter optimization,
+    -   Preprocessing, Normalization and Optimization of Hyperparameters of the Models run the files in the [Opt for Models](https://github.com/Glarah453/ML_obps_vocs/tree/main/Opt%20for%20Models)  folder for hyperparameter optimization,
 
--   Results of Best Hyperparameters of the Models [ML_obps_covs - Etapa 4 y 5.ipynb](https://github.com/Glarah453/ML_obps_vocs/blob/main/ML_obps_covs%20-%20Etapa%204%2C%205.ipynb).
+    -   Results of Best Hyperparameters of the Models [ML_obps_covs - Etapa 4 y 5.ipynb](https://github.com/Glarah453/ML_obps_vocs/blob/main/ML_obps_covs%20-%20Etapa%204%2C%205.ipynb).
 
--   Evaluating Model Predictions [ML_obps_covs - Etapa 6.ipynb](https://github.com/Glarah453/ML_obps_vocs/blob/main/ML_obps_covs%20-%20Etapa%206.ipynb).
+    -   Evaluating Model Predictions [ML_obps_covs - Etapa 6.ipynb](https://github.com/Glarah453/ML_obps_vocs/blob/main/ML_obps_covs%20-%20Etapa%206.ipynb).
