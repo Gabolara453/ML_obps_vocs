@@ -4,7 +4,6 @@ The approach used in this work is to search for odorant-binding protein descript
 
 ![Figure](https://github.com/Glarah453/ML_obps_vocs/blob/main/figures/Esquema%20de%20Flujo%20de%20trabajo.jpg)
 
-
 # Installation
 
 ## Data
